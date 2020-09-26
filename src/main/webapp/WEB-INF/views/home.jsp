@@ -10,7 +10,7 @@
 <header>
     <div class="header-content">
         <div class="header-content-inner">
-            <h1 id="homeHeading">Guys It is Saturday Night</h1>
+            <h1 id="homeHeading">DevOps Means People Process Automation</h1>
             <hr>
             <p>FlipAmazon is the Big Online Store for All kind of products. We also free delivery all kind of our products as your ordering! So we are always stay-connecting with all customers!</p>
             <a href="#about" class="btn btn-primary btn-xl page-scroll sr-button">To Know What We've Provided here!</a>
